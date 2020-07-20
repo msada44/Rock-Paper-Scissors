@@ -1,6 +1,7 @@
 body {   
 font-family: sans-serif;  
-background-color: #0099ff;
+background-color: #0099ff; 
+text-align: center; 
  } 
  h1 { 
  color: orange;  
